@@ -10,3 +10,17 @@ width:940px;
 margin:auto;
 border:10px solid #f2d9ef;
 }
+
+#templatemo_top_panel{
+width:880px;
+padding:5px 30px;
+background:#c82c74;
+}
+
+#templatemo_language_section{
+float:left;
+}
+
+#templatemo_shopping_cart{
+float:right;
+}
